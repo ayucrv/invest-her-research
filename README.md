@@ -37,8 +37,7 @@
 💬 Community-driven insights  
 
 ### Access the Platform
-🔗 **Live Link**: [Loveable Project URL]
+🔗 **Live Link**: https://preview--rose-quartz-ledger.lovable.app/
 
 ---
 
-## 📁 Repository Structure
