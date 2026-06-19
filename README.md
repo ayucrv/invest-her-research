@@ -90,36 +90,6 @@ Demystifying jargon
 Building investor confidence
 
 
-Live Platform
-
-🔗 Women Invest Tracker Live
-
-Quick Links:
-
-
-🏠 Dashboard
-➕ Add an Investment
-
-
-
-📁 This Repository
-
-women-invest-tracker/
-├── README.md                      # This file
-├── case-study.pdf                 # Full research & analysis
-├── PLATFORM_FEATURES.md           # Detailed feature breakdown
-└── CASE_STUDY_SUMMARY.md          # Key findings snapshot
-
-How to Explore
-
-
-Start with the Platform → Click the live link above, interact with the dashboard
-Read the Case Study → case-study.pdf for full research
-Understand the Design → PLATFORM_FEATURES.md for feature rationale
-Quick Overview → CASE_STUDY_SUMMARY.md for highlights
-
-
-
 🎯 Why This Matters
 
 The Numbers
@@ -269,18 +239,11 @@ This platform isn't static. The case study informs the product. The product gene
 We're learning as we grow. So are you.
 
 
-🤝 Meet the Builder
 
-Built by Ayusee during [Hackathon Name]
 
 Data Science • Product Thinking • Women's Finance Advocacy
 
-Connect:
 
-
-🐙 GitHub
-💼 LinkedIn
-📧 your.email@example.com
 
 
 
