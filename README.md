@@ -269,7 +269,7 @@ Last Updated: June 2026
 Status: Live & Growing 🚀
 
 ### Access the Platform
-🔗 **Live Link**: https://preview--rose-quartz-ledger.lovable.app/
+🔗 **Live Link**: https://rose-quartz-ledger.lovable.app/
 
 ---
 
